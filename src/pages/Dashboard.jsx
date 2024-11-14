@@ -14,7 +14,7 @@ function Dashboard() {
                         <div className='p-3'>
                             <div className='d-flex justify-content-center align-items-center'>
                             <Link className='btn btn-secondary w-25 ' to={'/stud'}>Students Details</Link>&nbsp;&nbsp;
-                            <Link className='btn btn-info w-25 ' to={'/sub'}>Subjects</Link>
+                            {/* <Link className='btn btn-info w-25 ' to={'/sub'}>Subjects</Link> */}
                         </div>
                         </div>
                     </Col>
